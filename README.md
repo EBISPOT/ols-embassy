@@ -15,10 +15,10 @@ When you are returned to the prompt, check that you can see Jupyter in your brow
 
 Make a note of the Juypter container id and then attach your terminal to it interactively:
 
-**```bash#```**```docker exec -it ```*```container_id```*```bash```
+**```bash#```**```docker exec -it```*```container_id```*```bash```
 
 Once you have a prompt inside your container, you can query for the Jupyter token:
 
 **```bash#```**```jupyter notebook list```
 
-Copy and paste the (fairly long) token id from your terminal into your Jupyter browser window. In your browser window itself, click on "OLS Cloud", then on "Custom OLS deployment on Embassy Cloud.ipynb". You can now follow the instructions therein to set your own customaised instance, or instances, of OLS running on EMBL/EBI's Embassy Cloud IaaS (Infrastructure as a Service).
+Copy and paste the (fairly long) token id from your terminal into your Jupyter browser window. In your browser window itself, click on "ols-embassy", then on "Custom OLS deployment on Embassy Cloud.ipynb". You can now follow the instructions therein to set your own customised instance, or instances, of OLS running on EMBL-EBI's Embassy Cloud IaaS (Infrastructure as a Service) platform.
