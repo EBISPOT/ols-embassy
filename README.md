@@ -21,4 +21,4 @@ Once you have a prompt inside your container, you can query for the Jupyter toke
 
 **```bash#```**```jupyter notebook list```
 
-Copy and paste the (fairly long) token id from your terminal into your Jupyter browser window. In your browser window itself, click on "ols-embassy", then on "Custom OLS deployment on Embassy Cloud.ipynb". You can now follow the instructions therein to set your own customised instance, or instances, of OLS running on EMBL-EBI's Embassy Cloud IaaS (Infrastructure as a Service) platform.
+Copy and paste the (fairly long) token id from your terminal into your Jupyter browser window. In your browser window itself, click on "ols-embassy", then on "Custom OLS deployment on Embassy Cloud.ipynb". You can now follow the instructions therein to set your own customised instance, or instances, of OLS running on EMBL-EBI's Embassy Cloud IaaS (Infrastructure as a Service).
